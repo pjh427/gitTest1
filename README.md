@@ -10,7 +10,8 @@
 
   
 ## :pushpin: 프로젝트 개요 및 소개
-블라블라~
+* 사용자들이 인공지능 산업의 최신 동향을 신속하고 효율적으로 파악할 수 있는 맞춤형 정보 검색& 챗봇 서비스 시스템을 구축하고자 함.
+* 이를 위해 대규모 언어 모델(LLM)과 LangChain 기술을 활용하여, 사용자가 필요로 하는 정보를 정확하게 필터링하고 제공하는 기능을 구현 하고자 함.
 
 
 ## :books: 사용 기술 스택
@@ -19,9 +20,9 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/discode-5865F2?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/discode-5865F2?style=for-the-badge&logo=github&logoColor=white">
   <br>
 </div>
 
