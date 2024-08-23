@@ -18,13 +18,17 @@
 
 ## :books: 사용 기술 스택
 <div align=center> 
+  |Environment|Development|Communication|
+|:------:|:---:|:---:|
+|<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> |역할|<img src="https://img.shields.io/badge/discode-5865F2?style=for-the-badge&logo=discode&logoColor=white">|
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/discode-5865F2?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+ 
   <br>
 </div>
 
