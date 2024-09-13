@@ -30,7 +30,7 @@ SKN2기 9월 단위프로젝트
 
 
 💻 구조도
-![image](https://github.com/user-attachments/assets/b9844885-3e6b-4f0a-858e-7a760a21dc9f)
+![image](https://github.com/user-attachments/assets/b9844885-3e6b-4f0a-858e-7a760a21dc9f width="300px")
 
 📚 주요 프로시저
 
@@ -38,4 +38,4 @@ SKN2기 9월 단위프로젝트
 📚 수행결과
 
 
-📚 한줄 회고
+📚 회고
