@@ -1,42 +1,44 @@
-# :pushpin: 2024 인공지능 산업 동향 Q&A 챗봇 서비스
-# SKN02-3rd-4Team
-|최수원|박주희|정인교|전유빈|
-|------|---|---|---|
-|역할 |역할|역할|역할|
+# SKN02-4th-1Team
+SKN2기 9월 단위프로젝트
 
-<br>
+#  팀 소개
+👩‍🏫 팀 구성
 
-## :pushpin: 프로젝트 기간
-* 2024.08.22 ~ 2024.08.23
 
-<br>
 
-## :pushpin: 프로젝트 개요 및 소개
-* 사용자들이 2024년 1월~8월의 인공지능 산업 최신 동향을 신속하고 효율적으로 파악할 수 있는<br>
-  맞춤형 정보 검색& 챗봇 서비스 시스템을 구축하고자 함.
-* 이를 위해 대규모 언어 모델(LLM)과 LangChain 기술을 활용하여,<br>
-  사용자가 필요로 하는 정보를 정확하게 필터링하고 제공하는 기능을 구현 하고자 함.
+#  프로젝트
 
-<br>
+👨‍🏫 프로젝트 개요
+- **주제**: 기업의 직무 및 직군 정보를 소개하는 사이트 개발
+- **주제 선정 이유**:
+    - 기업 직무와 직군 정보는 취업 준비생에게 꼭 필요한 자료다.
+    - 이러한 정보를 얻기 위해 사람이 직접 검색하여 정리하는 수고를 줄여주고자 이 주제를 선정했다.
+    - 직무별 요구 역량과 세부 업무 내용을 제공함으로써 구직자들이 목표를 명확히 설정할 수 있게 한다.
+- **사용 데이터**: SK Networks careers 웹사이트 크롤링 데이터
 
-## :books: 사용 기술 스택
-* Environment
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-* Development
-  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-* Communication
-  <img src="https://img.shields.io/badge/discode-5865F2?style=for-the-badge&logo=discode&logoColor=white">
-  <br>
-</div>
-<br>
+✅ 요구사항 분석
+    1. 직무와 직군에 대해 질문하면 답변이 가능해야 한다.
+    2. 기업 정보에 대해 질문하면 답변이 가능해야 한다.
+    3. 존재하지 않는 정보로 답변하지 않아야 한다.
+    4. 무관한 질문에는 답변하지 않아야 한다.
+    5. 응답 생성에 너무 오랜 시간이 걸리지 않아야 한다.
+- **문제 해결 범위**: 모든 기업의 정보를 제공하는 것은 정보의 양이 방대하기 때문에 SK 네트웍스의 정보만 제공하기로 한정했다.
 
-## :bookmark_tabs: 데이터셋 및 출처
-* 소스: 인공지능 산업의 최신 동향(2024) 1~8월 pdf 파일
-* 출처: SPRi 소프트웨어 정책 연구소 AI 브리프 
-<br>
 
-## 💻 구현 화면
+🔨 기술 스택
+
+
+📝 WBS
+
+
+
+💻 구조도
+
+
+📚 주요 프로시저
+
+
+📚 수행결과
+
+
+📚 한줄 회고
