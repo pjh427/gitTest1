@@ -30,7 +30,7 @@ SKN2기 9월 단위프로젝트
 
 
 💻 구조도<br>
-<img src="https://github.com/user-attachments/assets/ae347e86-054f-4a3e-9c2e-925901dbf3d5" width="600" height="450" />
+<img src="https://github.com/user-attachments/assets/ae347e86-054f-4a3e-9c2e-925901dbf3d5" width="600" height="350" />
 
 📚 수행결과 및 결과분석
 
