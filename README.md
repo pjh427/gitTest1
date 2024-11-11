@@ -17,10 +17,10 @@ SKN2기 최종 단위프로젝트
     <td><img src="https://github.com/user-attachments/assets/72bbcb66-8e4f-4936-8701-10e7e2c46471" width="100px" alt="정우영 이미지"></td>
   </tr>
   <tr>
-    <td>역할</td>
-    <td>역할</td>
-    <td>역할</td>
-    <td>역할</td>
+    <td align="center">역할</td>
+    <td align="center">역할</td>
+    <td align="center">역할</td>
+    <td align="center">역할</td>
 
   </tr>
 </table>
