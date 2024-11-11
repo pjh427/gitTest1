@@ -14,7 +14,7 @@ AI 모의면접 서비스
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/d06b6aae-3ece-465e-b24a-f6591b7a267a" width="100px" alt="호영희 이미지"></td>
-    <td><img src="https://github.com/user-attachments/assets/b3294ab5-90dd-42ec-8b31-c0e2379a7eb0" width="100px" alt="김은종 이미지"></td>
+    <td><img src="https://github.com/user-attachments/assets/a2eea060-3486-4aea-8fee-c0b2fa913f81" width="100px" alt="김은종 이미지"></td>
     <td><img src="https://github.com/user-attachments/assets/5d8c6d55-40ca-4769-b2fe-47ded1fd826d" width="100px" alt="강민호 이미지"></td>
     <td><img src="https://github.com/user-attachments/assets/03da861f-b44b-4032-882f-e3fe8383d1cd" width="100px" alt="박주희 이미지"></td>
     <td><img src="https://github.com/user-attachments/assets/d6987aeb-094d-4b88-b31b-3ab674b9c273" width="100px" alt="장준영 이미지"></td>
