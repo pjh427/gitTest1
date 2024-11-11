@@ -1,8 +1,6 @@
 # AI 모의면접 서비스
-SKN02-FINAL-1Team
-SKN2기 최종 단위프로젝트
 <br></br>
-## 👩‍🏫 팀 호영희 (HYH)
+## 👩‍🏫 팀 호영희 (HYH) SKN02-FINAL-1Team
 <table>
   <tr>
     <th>강민호</th>
