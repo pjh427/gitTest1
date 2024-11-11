@@ -32,6 +32,18 @@ SKN2기 최종 단위프로젝트
 👩‍🏫 서비스 목표
 
 🔨 기술 스택
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/fastapi-00A187?style=for-the-badge&logo=fastapi&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/html-FF5733?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black">
+<br>
+<img src="https://img.shields.io/badge/mysql-FF4500?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/docker-944AEB?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/dockercompose-FF1493?style=for-the-badge&logo=dockercompose&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 
 📝 WBS
 
