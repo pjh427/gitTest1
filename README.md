@@ -1,6 +1,6 @@
 # AI 모의면접 서비스
 <br></br>
-## 👩‍🏫 팀 호영희 (HYH) SKN02-FINAL-1Team
+## 👩‍🏫 팀 호영희 (HYH)
 <table>
   <tr>
     <th>강민호</th>
