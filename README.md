@@ -1,8 +1,8 @@
 SKN02-FINAL-1Team
 SKN2기 최종 단위프로젝트
 
-팀 소개
-## 👩‍🏫 팀 호영희
+
+## 👩‍🏫 팀 호영희 (HYH)
 <table>
   <tr>
     <th>강민호</th>
