@@ -26,12 +26,13 @@ SKN2기 최종 단위프로젝트
 </table>
 
 
-프로젝트
-👨‍🏫 프로젝트 개요
 
-👩‍🏫 서비스 목표
+## 👨‍🏫 프로젝트 개요
+
+## 👩‍🏫 서비스 목표
 
 ## 🔨 기술 스택
+<br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/fastapi-00A187?style=for-the-badge&logo=fastapi&logoColor=white">
@@ -47,12 +48,12 @@ SKN2기 최종 단위프로젝트
 
 ## 📝 WBS
 
-✅ 요구사항 명세서
+## ✅ 요구사항 명세서
 
-💻 DB 테이블 - ERD 및 DDL
+## 💻 DB 테이블 - ERD 및 DDL
 
-📚 주요 프로시저
+## 📚 주요 프로시저
 
-📚 수행결과
+## 📚 수행결과
 
-📚 한줄 회고
+## 📚 한줄 회고
