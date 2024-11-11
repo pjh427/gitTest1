@@ -2,7 +2,7 @@
 AI 모의면접 서비스
 <br />
 
-## 🎤 팀 호영희 (HYH)
+## 🎤 팀 호영희(HYH)
 <table>
   <tr>
     <th>HYH</th>
