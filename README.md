@@ -11,10 +11,10 @@ SKN2기 최종 단위프로젝트
     <th>정우영</th>
   </tr>
   <tr>
-    <td><img src="![image0](https://github.com/user-attachments/assets/72bbcb66-8e4f-4936-8701-10e7e2c46471)" width="100px" alt="김성은 이미지"></td>
-    <td><img src="![image0](https://github.com/user-attachments/assets/72bbcb66-8e4f-4936-8701-10e7e2c46471)" width="100px" alt="김종식 이미지"></td>
-    <td><img src="![image0](https://github.com/user-attachments/assets/72bbcb66-8e4f-4936-8701-10e7e2c46471)" width="100px" alt="이주원 이미지"></td>
-    <td><img src="![image0](https://github.com/user-attachments/assets/72bbcb66-8e4f-4936-8701-10e7e2c46471)" width="100px" alt="최연규 이미지"></td>
+    <td><img src="https://github.com/user-attachments/assets/72bbcb66-8e4f-4936-8701-10e7e2c46471" width="100px" alt="강민호 이미지"></td>
+    <td><img src="https://github.com/user-attachments/assets/72bbcb66-8e4f-4936-8701-10e7e2c46471" width="100px" alt="박주희 이미지"></td>
+    <td><img src="https://github.com/user-attachments/assets/72bbcb66-8e4f-4936-8701-10e7e2c46471" width="100px" alt="장준영 이미지"></td>
+    <td><img src="https://github.com/user-attachments/assets/72bbcb66-8e4f-4936-8701-10e7e2c46471" width="100px" alt="정우영 이미지"></td>
   </tr>
   <tr>
     <td>역할</td>
