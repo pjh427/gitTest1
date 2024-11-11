@@ -31,7 +31,7 @@ SKN2기 최종 단위프로젝트
 
 👩‍🏫 서비스 목표
 
-🔨 기술 스택
+## 🔨 기술 스택
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/fastapi-00A187?style=for-the-badge&logo=fastapi&logoColor=white">
@@ -45,7 +45,7 @@ SKN2기 최종 단위프로젝트
 <img src="https://img.shields.io/badge/dockercompose-FF1493?style=for-the-badge&logo=dockercompose&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 
-📝 WBS
+## 📝 WBS
 
 ✅ 요구사항 명세서
 
