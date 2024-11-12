@@ -21,7 +21,7 @@ AI 모의면접 서비스
     <td><img src="https://github.com/user-attachments/assets/6bbbbb65-1635-4088-a764-0d8d4f6f7618" width="100px" alt="정우영 이미지"></td>
   </tr>
   <tr>
-    <td align="center">로고</td>
+    <td align="center">팀 로고</td>
     <td align="center">멘토</td>
     <td align="center">역할</td>
     <td align="center">역할</td>
@@ -52,8 +52,8 @@ AI 모의면접 서비스
 3. **면접 기록 및 분석 관리**
    - 면접 기록과 결과를 저장하고, 사용자 계정에서 언제든지 확인할 수 있는 관리 기능 제공. 
 
-<br></br>
 <br />
+
 ## 🔨 기술 스택
 <div align="left">
 
