@@ -16,17 +16,17 @@ AI 모의면접 서비스
     <td><img src="https://github.com/user-attachments/assets/d06b6aae-3ece-465e-b24a-f6591b7a267a" width="100px" alt="호영희 이미지"></td>
     <td><img src="https://github.com/user-attachments/assets/861bd8c6-78fa-4006-a819-1b2d0d7e3911" width="100px" alt="김은종 이미지"></td>
     <td><img src="https://github.com/user-attachments/assets/5d8c6d55-40ca-4769-b2fe-47ded1fd826d" width="100px" alt="강민호 이미지"></td>
-    <td><img src="https://github.com/user-attachments/assets/03da861f-b44b-4032-882f-e3fe8383d1cd" width="100px" alt="박주희 이미지"></td>
-    <td><img src="https://github.com/user-attachments/assets/d6987aeb-094d-4b88-b31b-3ab674b9c273" width="100px" alt="장준영 이미지"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/03da861f-b44b-4032-882f-e3fe8383d1cd" width="100px" alt="박주희 이미지" ></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/d6987aeb-094d-4b88-b31b-3ab674b9c273" width="100px" alt="장준영 이미지"></td>
     <td><img src="https://github.com/user-attachments/assets/6bbbbb65-1635-4088-a764-0d8d4f6f7618" width="100px" alt="정우영 이미지"></td>
   </tr>
   <tr>
     <td align="center">팀 로고</td>
     <td align="center">멘토</td>
-    <td align="center">역할</td>
-    <td align="center">역할</td>
-    <td align="center">역할</td>
-    <td align="center">역할</td>
+    <td align="center">PM<br>모델 설계 </td>
+    <td align="center">데이터 수집 및 전처리<br>DB 구현</td>
+    <td align="center">웹서버 구축 및 구현<br>디자인 설계</td>
+    <td align="center">문서화<br>디자인 설계</td>
 
   </tr>
 </table>
@@ -37,9 +37,9 @@ AI 모의면접 서비스
 - 프로젝트명: 지원자의 이력서를 기반으로 지원 기업 맞춤 정보를 활용한 실전 대비 AI 모의면접 시스템
 
 ### 서비스 목표
-- 사용자의 **이력서와 자소서를 기반으로 기업 맞춤형 질문** 제공
-- **AI 면접관을 통해 실전 면접 대비 환경** 제공
-- **면접 종료 후 성과 분석 및 피드백** 제공
+- 사용자의 이력서와 자소서를 기반으로 기업 맞춤형 질문 제공
+- AI 면접관을 통해 실전 면접 대비 환경 제공
+- 면접 종료 후 성과 분석 및 피드백 제공
 
 ### 주요 기능
 
@@ -83,7 +83,7 @@ AI 모의면접 서비스
 <br />
 
 ## ✅ 요구사항 명세서
-### 1. **기능적 요구사항**
+### 1. 기능적 요구사항
 - 시스템은 사용자가 업로드한 이력서와 자기소개서를 분석해야 한다.
 - 시스템은 분석된 이력서 및 자기소개서 내용을 바탕으로 지원 직무와 관련된 맞춤형 질문을 생성해야 한다.
 - 사용자가 원하는 난이도(기본, 실무, 심화)를 선택할 수 있도록 해야 한다.
@@ -93,11 +93,11 @@ AI 모의면접 서비스
 - 면접 종료 후 사용자의 답변을 바탕으로 성과를 분석하고, 개선이 필요한 부분에 대한 피드백을 제공해야 한다.
 - 피드백은 긍정적인 측면과 개선이 필요한 측면으로 구분하여 제공해야 한다.
 
-### 2. **비기능적 요구사항**
+### 2. 비기능적 요구사항
 - 사용자 인터페이스(UI)는 직관적이고 간단하여, 사용자가 복잡한 절차 없이 서비스를 이용할 수 있어야 한다.
 - 추가적인 기업별 맞춤 질문 및 면접 스타일(압박 면접 등)을 추가할 수 있어야 한다.
 
-### 3. **인터페이스 요구사항**
+### 3. 인터페이스 요구사항
 - 사용자 인터페이스(UI)
   - 이력서 및 자소서 업로드 페이지
   - 맞춤형 질문 면접 진행 페이지
@@ -105,7 +105,8 @@ AI 모의면접 서비스
 - 시스템 인터페이스
   - 이력서 및 자소서 데이터 처리 AI 모델과 연동
   - 피드백 및 성과 분석 데이터베이스와 연동
-### 4. **데이터 요구사항**
+
+### 4. 데이터 요구사항
 - 사용자의 이력서와 자소서를 저장할 데이터베이스가 필요하다.
 - 면접 진행 중 생성된 답변 데이터는 추후 피드백 제공을 위해 저장되어야 한다.
 ### 5. **향후 확장계획**
